@@ -1,5 +1,4 @@
 # Task_1
-#Test of the AIINS LAB  
 
 Info:  
   This program will build the adjacency list base on the "test.txt" file.
