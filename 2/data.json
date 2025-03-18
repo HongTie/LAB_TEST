@@ -1,0 +1,49 @@
+
+{
+    "user":[
+        {"id":0,
+        "name":"faker",
+        "age":28,
+        "role":"Esports player"},
+
+        {"id":1,
+        "name":"Allen",
+        "age":33,
+        "role":"developer"}, 
+
+        {"id":2,
+        "name":"Oner",
+        "age":22,
+        "role":"Esports player"},
+
+        {"id":3,
+        "name":"fresa",
+        "age":24,
+        "role":"student"}, 
+
+        {"id":4,
+        "name":"Jessy",
+        "age":29,
+        "role":"developer"}, 
+
+        {"id":5,
+        "name":"Keria",
+        "age":22,
+        "role":"Esports player"},
+
+        {"id":6,
+        "name":"Laner",
+        "age":36,
+        "role":"developer"}, 
+
+        {"id":7,
+        "name":"Gumayusi",
+        "age":22,
+        "role":"Esports player"},
+
+        {"id":8,
+        "name":"Doran",
+        "age":24,
+        "role":"Esports player"}
+    ]
+}
