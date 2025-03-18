@@ -1,14 +1,8 @@
-# Task_1
-test of the AIINS LAB  
+#This is for the test of the AIINS LAB  
 
-info:  
-  This program will build the adjacency list base on the "test.txt" file.
-  Then present BFS algo. and show the result order of it.
-
-
-1.測試資料請編輯test.txt，程式會讀檔
-
-2.Run "Graph Adjacency List and BFS.cpp"
+#There are three files and each for a task.
+#The file's naming is same with the task.
+#A README.txt is in every file respectively.
 
 
 
@@ -16,5 +10,4 @@ info:
 Made by Wei-ting Hsu  
 2025/3/18  
 editor:VScode  
-
 *************************
