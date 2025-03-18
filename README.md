@@ -5,9 +5,3 @@
 #A README.txt exist in every file respectively.  
 
 
-
-*************************
-Made by Wei-ting Hsu  
-2025/3/18  
-editor:VScode  
-*************************
