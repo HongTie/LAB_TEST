@@ -7,7 +7,7 @@ Info:
 
 1.測試資料請編輯data.json，程式會讀檔
 
-2.Run "JSON Parsing and Filtering.py"
+2.Compile and Run "JSON Parsing and Filtering.py"
 
 
 
