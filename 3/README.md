@@ -13,9 +13,18 @@ Method 2:
 1.open cmd  
 2.cd to file path where '\3' located in.  
 3.enter this  
-.\server.exe 8080	
+```.\server.exe 8080```   
+to active the server.
+4. repeat step 1.2. and replace 3.'s instruction with  
+```.\client.exe 127.0.0.1 8080```   
+to active the client.  
 
 
+如果需要重新compile source code,請使用以下指令:  
+```
+gcc -o client client.c -lws2_32
+gcc -o server server.c -lws2_32
+```
 *************************
 Made by Wei-ting Hsu  
 2025/3/19  
