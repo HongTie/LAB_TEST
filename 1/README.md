@@ -7,7 +7,7 @@ Info:
 
 1.測試資料請編輯test.txt，程式會讀檔
 
-2.Run "Graph Adjacency List and BFS.cpp"
+2.Compile and Run "Graph Adjacency List and BFS.cpp"
 
 
 
